@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=controlcenter()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ populate()
+comment3.params=
+comment3.target=void\ spawn()
+comment4.params=
+comment4.target=void\ changeSpeed()
+numComments=5

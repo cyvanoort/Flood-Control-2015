@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ move()
+comment1.params=dx\ dy\ direction
+comment1.target=void\ moveChar(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ moveBag()
+numComments=3

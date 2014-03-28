@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=floodWorld()
+comment1.params=
+comment1.target=void\ generateWeiland()
+comment2.params=
+comment2.target=void\ generateDijk()
+comment3.params=
+comment3.target=void\ generate()
+numComments=4
